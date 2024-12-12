@@ -1,4 +1,5 @@
 ### Introduction
+(EDIT 1)
 
 You've moved beyond the preparation and knowledge gathering phase.  Now it's time to hit the pavement and approach the actual jobs.  
 

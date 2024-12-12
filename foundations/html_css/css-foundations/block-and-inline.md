@@ -1,4 +1,5 @@
 ### Introduction
+(EDIT 3)
 
 In the previous lesson, we discovered that different display types have unique box models, and we can modify the box calculation by changing the `box-sizing` property. CSS has two box types: `block` and `inline` boxes, which determine element behavior and interaction. The `display` property controls how HTML elements appear on the webpage. We will explore its various options further in this lesson.
 
